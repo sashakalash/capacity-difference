@@ -1,0 +1,2 @@
+JMH S 23 benchmark.BenchmarkLoop S 81 benchmark.jmh_generated.BenchmarkLoop_randomReadAndWriteConcurrentHashMap_jmhTest S 35 randomReadAndWriteConcurrentHashMap S 10 Throughput E A 1 1 1 E E E E E E E I 1 2 E E L 2 6 -Xms2G 6 -Xmx2G E E E U 7 MINUTES E E 
+JMH S 23 benchmark.BenchmarkLoop S 79 benchmark.jmh_generated.BenchmarkLoop_randomReadAndWriteSynchronizedMap_jmhTest S 33 randomReadAndWriteSynchronizedMap S 10 Throughput E A 1 1 1 E E E E E E E I 1 2 E E L 2 6 -Xms2G 6 -Xmx2G E E E U 7 MINUTES E E 
